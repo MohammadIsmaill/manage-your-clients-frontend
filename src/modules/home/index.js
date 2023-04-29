@@ -150,7 +150,7 @@ export default function Home() {
             </button>
           </div>
 
-          <div className='row gap-5'>
+          <div className='row gap-2'>
             {" "}
             {clients.map((client) => {
               return (
